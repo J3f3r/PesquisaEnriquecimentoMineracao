@@ -1,6 +1,6 @@
 # Recursos de IA Azure para mineração de conhecimento, eriquecimentos de dados e consultas avançadas.
 
-## Pesquisa cognitiva do Azure 
+## Pesquisa cognitiva do Azure 🔎
 
 A mineração de conhecimento é muito importante principalmente para entidades que lidam com uma grande quantidade de arquivos, documentos, acervos, etc.
 Depois da digitialização desse grande volume de arquivos se faz necessário o próximo passo que é otimizar as pesquisas para obtenção de informações utéis para os interessados tais como por exemplo o SUS que depois de digitalizar os prontuários dos pacientes agora podem contar com as IA's para uma pesquisa mais objetiva; temos também órgãos públicos e governamentais, bibliotecas, escritórios de advocacia, vários tipos de empresas e aplicativos também, todos se beneficiarão das IA's para obtenção de conhecimentos de maneira mais rápida e eficiênte. A mineração de conhecimento ENCONTRA INFORMAÇOES IMPORTANTES EM ESCALA.
@@ -76,7 +76,7 @@ Veja palavras e frases-chave que o armazenamento de conhecimento pode capturar d
 
 Hoje a informação é uma das principais armas para o sucesso das empresas e eficiencia de entidades governamentais onde decisões importantes podem ser tomadas mais rápidamente o que fará diferença entre o fracasso e o sucesso ou, até mesmo entre vida ou morte. 
 
-## Referências
+## Referências 📄
 
 [Portal Azure](https://portal.azure.com/?azure-portal=true)
 
